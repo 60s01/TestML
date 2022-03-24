@@ -1,0 +1,11 @@
+C:\3-1 ИС\Сажин\TestMLML.Model\bin\Debug\netstandard2.0\MLModel.zip
+C:\3-1 ИС\Сажин\TestMLML.Model\bin\Debug\netstandard2.0\TestMLML.Model.deps.json
+C:\3-1 ИС\Сажин\TestMLML.Model\bin\Debug\netstandard2.0\TestMLML.Model.dll
+C:\3-1 ИС\Сажин\TestMLML.Model\bin\Debug\netstandard2.0\TestMLML.Model.pdb
+C:\3-1 ИС\Сажин\TestMLML.Model\obj\Debug\netstandard2.0\TestMLML.Model.csproj.AssemblyReference.cache
+C:\3-1 ИС\Сажин\TestMLML.Model\obj\Debug\netstandard2.0\TestMLML.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\3-1 ИС\Сажин\TestMLML.Model\obj\Debug\netstandard2.0\TestMLML.Model.AssemblyInfoInputs.cache
+C:\3-1 ИС\Сажин\TestMLML.Model\obj\Debug\netstandard2.0\TestMLML.Model.AssemblyInfo.cs
+C:\3-1 ИС\Сажин\TestMLML.Model\obj\Debug\netstandard2.0\TestMLML.Model.csproj.CoreCompileInputs.cache
+C:\3-1 ИС\Сажин\TestMLML.Model\obj\Debug\netstandard2.0\TestMLML.Model.dll
+C:\3-1 ИС\Сажин\TestMLML.Model\obj\Debug\netstandard2.0\TestMLML.Model.pdb
